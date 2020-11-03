@@ -7,4 +7,4 @@ mesh = Mesh.from_file(path)
 
 vpl.mesh_plot(mesh)
 
-vpl.save_fig('./ima.png')
+vpl.save_fig('./ima.bmp')
